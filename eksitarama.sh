@@ -1,4 +1,5 @@
 #!/bin/bash
+#UYARI! sistemde lynx yüklü olmalı
 #aşağıdaki komut iskeletini değiştirmeyin
 
 lynx --dump eksisozluk.com | grep eksisozluk.com | grep "$(
